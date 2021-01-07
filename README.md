@@ -1,4 +1,4 @@
-to dodałem w kolejnej odsłonie repo lokalnego, które naste[3~[3~[Ctępnie zmerguję z remote repo
+
 # remote-repository-001
 <h2>test repository to learn Git and other technologies</h2>
 <p>
@@ -12,3 +12,4 @@ to dodałem w kolejnej odsłonie repo lokalnego, które naste[3~[3~[Ctępnie
 
 a to dodałem lokalnie
 
+to dodałem w kolejnej odsłonie repo lokalnego, które następnie zmerguję z remote repo
