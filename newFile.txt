@@ -4,3 +4,4 @@ i to jest dopiero KONFLIKT hehe ...
 
 to jest już trzecia próba merge'a z konfliktem
 
+to jest linia tekstu z branch'a devMarek
