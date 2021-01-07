@@ -6,3 +6,4 @@ to jest już trzecia próba merge'a z konfliktem
 
 troszkę namieszam jeszcze z mastera
 
+to jest linia tekstu z branch'a devMarek
