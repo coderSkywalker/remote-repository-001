@@ -1,0 +1,1 @@
+to jest już trzecia próba merge'a z konfliktem
