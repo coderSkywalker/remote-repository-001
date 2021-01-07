@@ -4,3 +4,5 @@ i to jest dopiero KONFLIKT hehe ...
 
 to jest już trzecia próba merge'a z konfliktem
 
+troszkę namieszam jeszcze z mastera
+
