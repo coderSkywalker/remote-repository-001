@@ -5,3 +5,6 @@
   In this repository I place files with Git command and recipes to
   acchieve some effects.
 </p>
+<p>
+  to jest na remote
+</p>
