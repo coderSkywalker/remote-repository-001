@@ -1,1 +1,3 @@
 blaabjl
+a to w tym samym czasie zdarzyło się na branch'u master - czyli symulacja jeszcze innego
+commit'a z jakiegoś tam branch'a master na repo lokalnym.
