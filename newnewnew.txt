@@ -1,1 +1,2 @@
 blaabjl
+to jest linia kodu z branch'a developMarek
