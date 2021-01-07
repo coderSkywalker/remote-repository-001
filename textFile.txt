@@ -1,1 +1,2 @@
 to jest pierwsza linia
+dodamy coś na masterze
