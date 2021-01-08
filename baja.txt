@@ -2,6 +2,8 @@ a to już pierwsza linia z branch'a devEwelina
 
 na masterze drobna zmiana od head dev'a
 
+tu się wepchał z tekstem dev Zenobi
+
 pierwsza linia z branch'a devMarek
 
 dodajemy szybciutko zmiany od Eweliny
