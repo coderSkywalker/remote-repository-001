@@ -1,4 +1,5 @@
 to jest pierwsza linia z branch'a devZenon
 
 to jest linia tekstu z dev Ewelina branch
+i jeszcze nieco od Eweliny
 
