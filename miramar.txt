@@ -1,1 +1,2 @@
 to jest pierwsza linia z branch'a devZenon
+hahaha z mastera
