@@ -1,2 +1,7 @@
 to jest pierwsza linia z branch'a devZenon
 hahaha z mastera
+
+dodanie pierwszej linii i commit
+
+i jeszcze jedna linijka i commit
+
