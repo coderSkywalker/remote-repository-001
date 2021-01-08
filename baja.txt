@@ -1,5 +1,7 @@
 a to już pierwsza linia z branch'a devEwelina
 
+na masterze drobna zmiana od head dev'a
+
 pierwsza linia z branch'a devMarek
 
 dodajemy szybciutko zmiany od Eweliny
